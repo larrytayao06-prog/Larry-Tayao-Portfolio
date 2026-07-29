@@ -1,9 +1,3 @@
----
-layout: default
-title: Larry Tayao | AI & Automation Architect
-description: Portfolio of Larry Tayao - AI Workflow Architecture, System Integration, and Automation.
----
-
 # Larry Tayao
 ### **AI & Automation Architect | Enterprise Implementation Lead**
 📍 Metro Manila, Philippines | ✉️ [larry.tayao06@gmail.com](mailto:larry.tayao06@gmail.com) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/larry-tayao-06212511a)
