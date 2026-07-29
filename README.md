@@ -1,2 +1,2 @@
-# Larry-Tayao-Portfolio
-Current portfolio
+# Portfolio
+Welcome! I’m Larry Tayao, an Information Technology professional and Configuration Architect with a proven track record of designing scalable systems and driving successful technical implementations.  Holding a Bachelor’s degree in Information Technology from the University of the East, my career has evolved across the full IT lifecycle—from hands-on data analysis and application support to leading IT Service Desk teams and managing complex implementation projects. Across roles at organizations like Laivly, SupportNinja, and 24-7 Intouch, my core focus has remained consistent: leveraging technology to solve operational challenges and maximize client efficiency.  Whether architecting custom configurations, leveraging SQL for data-driven decisions, or leading end-to-end client rollouts, I bring a balanced approach of technical expertise and team leadership to every project. 
