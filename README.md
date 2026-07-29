@@ -1,2 +1,122 @@
-# Larry Tayao Portfolio
-Welcome! I’m Larry Tayao, an Information Technology professional and Configuration Architect with a proven track record of designing scalable systems and driving successful technical implementations.  Holding a Bachelor’s degree in Information Technology from the University of the East, my career has evolved across the full IT lifecycle—from hands-on data analysis and application support to leading IT Service Desk teams and managing complex implementation projects. Across roles at organizations like Laivly, SupportNinja, and 24-7 Intouch, my core focus has remained consistent: leveraging technology to solve operational challenges and maximize client efficiency.  Whether architecting custom configurations, leveraging SQL for data-driven decisions, or leading end-to-end client rollouts, I bring a balanced approach of technical expertise and team leadership to every project. 
+---
+layout: default
+title: Larry Tayao | AI & Automation Architect
+description: Portfolio of Larry Tayao - AI Workflow Architecture, System Integration, and Automation.
+---
+
+# Larry Tayao
+### **AI & Automation Architect | Enterprise Implementation Lead**
+📍 Metro Manila, Philippines | ✉️ [larry.tayao06@gmail.com](mailto:larry.tayao06@gmail.com) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/larry-tayao-06212511a)
+
+---
+
+> **"Bridging complex business operations with AI-driven automation."**  
+> Specialized in configuring enterprise workflow engines, API integrations, and scalable client deployments.
+
+[About](#about-me) • [Skills](#technical-skills) • [Featured Projects](#featured-projects) • [Experience](#experience) • [Education](#education) • [Contact](#contact)
+
+---
+
+## About Me
+
+I am an Information Technology professional with extensive experience across data analytics, cloud support, software implementation, and AI configuration architecture. I specialize in turning complex operational bottlenecks into automated, intelligent workflows that maximize team productivity and streamline enterprise client operations.
+
+---
+
+## Technical Skills
+
+| Domain | Expertise & Tooling |
+| :--- | :--- |
+| **AI & Automation** | Workflow Architecture, Intelligent Process Automation (IPA), Agent-Assist Platforms, Rule Engines, Logic Branching |
+| **Data & APIs** | SQL (Data Querying & Modeling), REST API Endpoint Mapping, JSON, Advanced Excel Modeling |
+| **Systems & Cloud** | Cloud Support Operations, Technical Troubleshooting, IT Service Desk Infrastructure |
+| **Deployment & Leadership** | Client Onboarding, Technical Solution Architecture, UAT & Testing Frameworks, Team Lead |
+
+---
+
+## Featured Projects
+
+### 1. Real-Time Agent Assist & Enterprise Workflow Automation
+`#AI-Workflows` `#REST-APIs` `#Logic-Engines` `#SQL`
+
+* **Challenge:** High-volume enterprise contact center agents spent excessive time toggling between fragmented CRMs, ticketing platforms, and back-end databases, leading to high Average Handle Times (AHT) and frequent data input errors.
+* **Solution & Architecture:**
+  * Configured dynamic decision trees and AI-driven rule engines that analyze live interaction context to present agents with automated next-best-action prompts.
+  * Mapped REST API endpoints to automatically pull customer records and pre-populate target system fields, eliminating manual double-entry.
+  * Designed conditional logic and fallback rules to gracefully handle edge cases or missing API payloads without interrupting the agent workflow.
+* **Business Impact:** Reduced average handling time (AHT) by **over 30%**, eliminated manual data re-entry errors, and significantly shortened onboarding time for new operational staff.
+
+---
+
+### 2. Enterprise AI Integration & Deployment Framework
+`#Implementation` `#API-Schema` `#UAT` `#System-Integration`
+
+* **Challenge:** Legacy IT infrastructures across enterprise clients made deploying modern AI automation tools complex, frequently risking integration delays and data mismatch errors.
+* **Solution & Architecture:**
+  * Led end-to-end technical deployments for enterprise clients, translating operational bottlenecks into structured technical blueprints.
+  * Conducted API schema mapping and database validations to align client data structures with internal AI platform requirements.
+  * Developed automated test suites and validation scripts to stress-test integrations during User Acceptance Testing (UAT) prior to production go-live.
+* **Business Impact:** Accelerated client onboarding timelines by **25%**, ensured **100% platform uptime** during production cutovers, and established a standardized deployment playbook.
+
+---
+
+### 3. Automated Data Analytics & Operational Reporting Pipelines
+`#SQL` `#Data-Modeling` `#Process-Optimization` `#Excel`
+
+* **Challenge:** Operational performance metrics and system execution logs were stored in disjointed databases, requiring hours of manual data extraction and analysis every week.
+* **Solution & Architecture:**
+  * Wrote optimized SQL queries to extract, transform, and aggregate raw transactional data across relational databases.
+  * Built structured reporting models and automated dashboard workflows in Excel using advanced formulas and macros.
+  * Monitored system log trends to proactively flag recurring application errors before they escalated to client-facing outages.
+* **Business Impact:** Automated **over 10 hours per week** of manual data collection, improved error discovery response times, and gave leadership clear visibility into operational SLAs.
+
+---
+
+### 4. Automated Incident Routing & Escalation Logic
+`#ITSM` `#Incident-Management` `#Cloud-Support` `#Automation`
+
+* **Challenge:** High-volume incoming support tickets and system alerts were manually sorted, leading to routing delays, elevated queue backlog, and slower Mean Time to Resolution (MTTR).
+* **Solution & Architecture:**
+  * Configured automated ticket classification systems using trigger-based rules and priority logic to route incidents directly to specialized tier-2/3 queues.
+  * Built incident response workflows and cloud infrastructure monitoring alerts to catch system degradation early.
+* **Business Impact:** Reduced first-response turnaround time by **40%** and improved team incident resolution throughput across tier-3 accounts.
+
+---
+
+## Experience
+
+### **Configuration Architect**
+**Laivly** | *May 2025 – Present*
+* Architect and configure custom AI and automation workflows tailored to enterprise operational needs.
+* Map complex decision trees, API endpoints, and rule engines to eliminate manual workflows for operational teams.
+
+### **Implementation Lead / Implementation Specialist**
+**Laivly** | *Oct 2022 – March 2025*
+* Led end-to-end technical deployments of AI automation tools across legacy client platforms.
+* Acted as the primary technical bridge between client IT stakeholders, product developers, and business operations teams.
+
+### **Cloud Support Engineer**
+**SupportNinja** | *Jul 2022 – Oct 2022*
+* Delivered tier-3 technical support, managing system availability and cloud platform troubleshooting.
+
+### **IT Service Desk Team Lead**
+**24-7 Intouch** | *Mar 2019 – Jul 2022*
+* Managed IT support teams, established incident response frameworks, and optimized service desk queue performance.
+
+### **Application Support / Data Analyst**
+**Indra / Synchronus BPO** | *2016 – 2018*
+* Managed database queries via SQL, maintained core system uptime, and constructed performance analytics.
+
+---
+
+## Education
+
+* **Bachelor of Science in Information Technology**  
+  University of the East *(2011 – 2015)*
+
+---
+
+## Contact
+
+* **Email:** [larry.tayao06@gmail.com](mailto:larry.tayao06@gmail.com)
+* **LinkedIn:** [linkedin.com/in/larry-tayao-06212511a](https://www.linkedin.com/in/larry-tayao-06212511a)
